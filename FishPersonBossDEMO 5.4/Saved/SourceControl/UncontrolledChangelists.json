@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"D:/GitRepos/Final-year-project/FishPersonBossDEMO 5.4/Content/BossAI/BP_BossAIController.uasset",
 				"D:/GitRepos/Final-year-project/FishPersonBossDEMO 5.4/Content/BossAI/BT_Nodes/BTTask_AnimationPlaceholder.uasset",
 				"D:/GitRepos/Final-year-project/FishPersonBossDEMO 5.4/Content/BossAI/BB_Boss.uasset",
@@ -21,6 +20,8 @@
 				"D:/GitRepos/Final-year-project/FishPersonBossDEMO 5.4/Content/BossAI/BehaviourTrees/BT_LongRange2.uasset",
 				"D:/GitRepos/Final-year-project/FishPersonBossDEMO 5.4/Content/BossAI/BehaviourTrees/BT_LongRange1.uasset",
 				"D:/GitRepos/Final-year-project/FishPersonBossDEMO 5.4/Content/BossAI/BT_Nodes/BTTask_ThrowPlayer.uasset",
+				"D:/GitRepos/Final-year-project/FishPersonBossDEMO 5.4/Content/BossAI/BP_BossAI.uasset",
+				"D:/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"C:/Users/htom4/Documents/Final-year-project/FishPersonBossDEMO 5.4/Content/BossAI/BehaviourTrees/BT_MidRange.uasset",
 				"C:/Users/htom4/Documents/Final-year-project/FishPersonBossDEMO 5.4/Content/BossAI/BP_BossAIController.uasset",
 				"C:/Users/htom4/Documents/Final-year-project/FishPersonBossDEMO 5.4/Content/BossAI/BehaviourTrees/BT_LongRange2.uasset",
